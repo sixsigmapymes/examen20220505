@@ -4,9 +4,17 @@ Examen accionpoint 20220505
 ##############################################################
 ### JDK
 Version : 11
+### Mavem 
+Version : 3.8
+##  H2 
+Version : 2.1.212 (2022-04-09) ,Instalado
 ###  Springboot
-Version: 	2.3.4.RELEASE
+Version : 	2.3.4.RELEASE
+##  IDE
+IntelletJ 
+Version : Educativa
 #############################################################
+------------------------------------------------------------------------------
 Test Unitario 
 -------------------------------------------------------------------------------
 Test set: com.examen.Controller.ProductoControllerTest
